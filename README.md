@@ -23,7 +23,7 @@ I am **[YOUR NAME OR USERNAME]**. If you're here, it's either because you saw th
 
 ### Tech Arsenal
 
-*The weapons I use to build and break things daily:*
+*The skills that I master *
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -46,7 +46,7 @@ I am **[YOUR NAME OR USERNAME]**. If you're here, it's either because you saw th
 
 ### Communication Protocol
 
-Want to recruit me, collaborate, or just talk tech?
+Want to collaborate, or just talk tech?
 
 <p align="center">
   <a href="[YOUR LINKEDIN LINK]"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
