@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="45" />
-  SYSTEM.BREACH // ACCÈS AUTORISÉ
+  PREMIUM USER
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="45" />
 </h1>
 
-<h3 align="center">:warning: Attention : Vous entrez dans une zone de code à haute tension. :warning:</h3>
+<h3 align="center">:Welcome to my space:</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Je+ne+code+pas.;Je+forge+des+armes+digitales.;Senior+en+devenir.;Bienvenue+dans+la+matrice." alt="Typing SVG" />
@@ -12,15 +12,13 @@
 
 ---
 
-> *"Pendant que tu cherches encore ton erreur de syntaxe sur StackOverflow, j'ai déjà refactorisé toute l'architecture."*
 
 ### :skull: Qui suis-je ? (Dossier Classifié)
 
 Je m'appelle **[TON PRÉNOM OU PSEUDO]**. Si tu es ici, c'est soit parce que tu as vu la lumière de mes *commits*, soit parce que tu t'es perdu. Dans les deux cas, assieds-toi et prends des notes. 
 
-- :rocket: **Mission actuelle :** [Ex: Dominer le Web3 / Casser des prods et les réparer plus vite que mon ombre]
-- :brain: **Super-pouvoir :** Transformer des litres d'energy drink en code sans faille.
-- :dart: **Objectif :** Écrire un code tellement propre qu'il fait pleurer les recruteurs.
+- :rocket: **Occupations actuelles :** [Développer mes skills en python, c++ et cybersécurité ( tryhackme course )]
+- :brain: **archuser ** 
 
 ---
 
@@ -30,15 +28,12 @@ Je m'appelle **[TON PRÉNOM OU PSEUDO]**. Si tu es ici, c'est soit parce que tu 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,docker,git,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,bash,html,css,python,docker,git,linux&perline=10" />
   </a>
 </p>
 
 ---
-<iframe>sohigh.fr</iframe>
-### :bar_chart: Statistiques de Destruction
-
-*Les chiffres ne mentent jamais.*
+### :bar_chart: Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[aizandeworld]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
