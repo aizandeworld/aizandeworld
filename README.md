@@ -14,7 +14,7 @@
 
 ### Who am I?
 
-I am **[YOUR NAME OR USERNAME]**. If you're here, it's either because you saw the light of my *commits*, or you're lost. Either way, sit down and take notes. 
+I am **aizande**. If you're here, it's either because you saw the light of my *commits*, or you're lost. Either way, sit down and take notes. 
 
 - **Current Occupations:** Developing my skills in Python, C++, and Cybersecurity (TryHackMe courses).
 - **Arch User**
