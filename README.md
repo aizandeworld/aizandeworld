@@ -21,9 +21,9 @@ I am **aizande**. If you're here, it's either because you saw the light of my *c
 
 ---
 
-### Tech Arsenal
+### Tech that i master
 
-*The skills that I master *
+**The skills that i'm good at**
 
 <p align="center">
   <a href="https://skillicons.dev">
